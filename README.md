@@ -6,7 +6,9 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 ## In Angular Directory run below cmd
 
+```bash
 npm install
+```
 
 ## Development server
 

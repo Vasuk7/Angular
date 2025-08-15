@@ -2,9 +2,10 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.5.
 
-# Pre req Node>20.x and npm > 9.x
+## Pre req Node>20.x and npm > 9.x
 
-# In Angular Directory run below cmd
+## In Angular Directory run below cmd
+
 npm install
 
 ## Development server
